@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @handzinCWB
-- 👀 I’m study .lua with suricatox
 - 🦝 raccoon is a thief
 - brazilian 
 - [Discord](https://discord.gg/xVpxwmRw3k)
