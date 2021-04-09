@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @handzinCWB
 - 🦝 raccoon is a thief
 - brazilian 
-- [Discord](https://discord.gg/xVpxwmRw3k)
 
 Languages that i'm working with:
 
