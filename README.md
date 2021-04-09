@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @handzinCWB
 - 🦝 raccoon is a thief
 - brazilian 
+- - 👋 eae mn de boa? 
 
 Languages that i'm working with:
 
