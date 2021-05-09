@@ -6,7 +6,8 @@
 Languages that i'm working with:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="25vw" height="25vh">  
-<img src="https://devtools.com.br/blog/wp-content/uploads/2013/06/MySQL-Logo.wine_.png" width="30vw" height="30vh">  
+Languages that I like to work with in my free time:
+<img src="https://devtools.com.br/blog/wp-content/uploads/2013/06/MySQL-Logo.wine_.png" width="40vw" height="40vh">  
 <!--
 <img src="" width="700vw" height="350vh">
 -->
