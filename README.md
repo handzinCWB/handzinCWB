@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @handzinCWB
-- 🦝 raccoon is a thief
 - brazilian 
-- .lua basic developer of farol roleplay v3 gta rp 
 - 👋 eae mn de boa? 
+- .lua basic developer 
+
 
 Languages that i'm working with:
 
