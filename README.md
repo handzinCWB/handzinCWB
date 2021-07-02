@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @handzinCWB
 - brazilian 
-- 👋 eae mn de boa? 
-- .lua basic developer 
+-  basic developer python 3,css3,html5 
 
 
 Languages that i'm working with:
