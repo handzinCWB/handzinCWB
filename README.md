@@ -5,7 +5,7 @@
 
 Languages that i'm working with:
 
-<img src="https://tse4.mm.bing.net/th?id=OIP.ubux1yLT726_fVc3A7WSXgHaHa&pid=Api&P=0&w=300&h=300" width="50vw" height="50vh">
+https://github-readme-stats.vercel.app/api?username=handzinCWB&show_icons=true&theme=dark
 <img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" width="75vw" height="75vh">  
 <img src="https://www.logolynx.com/images/logolynx/8c/8cdf4c047e99f7389e76aa4e2e7e2803.png" width="65vw" height="65vh">   
 Stuffs that i use to spend my time:
