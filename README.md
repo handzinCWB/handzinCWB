@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @handzinCWB
 - brazilian 
--  basic developer python 3,css3,html5 
+-  basic developer js,css3,html5 
+- basic dev on altv 
+
 
 
 Languages that i'm working with
