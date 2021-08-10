@@ -12,6 +12,7 @@
 </div>
 <div>
     <img align="center"src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="davi-js">
+    <img align="center"src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="davi-py">
     <img align="center"src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="davi-sql">
     <img align="center" height="30" widh="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="davi-html">
     <img align="center" height="30" widh="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="davi-css">
@@ -19,6 +20,7 @@
 <br>
     <div>
         <a href="https://steamcommunity.com/profiles/76561198268972634/" target="_black"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_black"></a>
+     <a href="https://www.instagram.com/davikucarz12/" target="_black"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_black"></a>
             <a href="https://open.spotify.com/user/21ibhbdezjgqimfnc4yb43ega" target="_black"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_black"></a>
     </div>
 
