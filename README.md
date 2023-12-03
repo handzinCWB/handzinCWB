@@ -11,7 +11,6 @@
 </div>
 <div>
     <img align="center"src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="davi-py">
-    <img align="center"src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="davi-sql">
     <img align="center" height="30" widh="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="davi-js">
 </div>
 <br>
