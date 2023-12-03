@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @handzinCWB
-- brazilian 
+- Brazilian 
 - developer javascript, python
 
 
@@ -16,9 +16,7 @@
 </div>
 <br>
     <div>
-        <a href="https://steamcommunity.com/profiles/76561198268972634/" target="_black"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_black"></a>
-     <a href="https://www.instagram.com/davikucarz12/" target="_black"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_black"></a>
-            <a href="https://open.spotify.com/user/21ibhbdezjgqimfnc4yb43ega" target="_black"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_black"></a>
+            <a href="https://www.linkedin.com/in/davikucarz/" target="_black"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_black"></a>
     </div>
 
  
